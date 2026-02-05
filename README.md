@@ -20,7 +20,7 @@ Simple and interactive terminal conversation
 
 ## Demo
 
-![CLI Demo](screenshots/cli-demo.png)
+![CLI Demo](https://github.com/mayuri-ai06/langchain-groq-cli-agent/blob/main/agentic%20ai%20.ss.png?raw=true)
 
 
 🛠️ Technologies Used
