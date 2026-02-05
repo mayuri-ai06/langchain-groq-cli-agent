@@ -19,7 +19,7 @@ Secure API key handling using .env
 Simple and interactive terminal conversation
 
 
-![CLI Demo](https://github.com/mayuri-ai06/langchain-groq-cli-agent/blob/main/agentic%20ai%20.ss.png?raw=true)
+![CLI Demo](https://github.com/mayuri-ai06/langchain-groq-cli-agent/blob/main/cli-demo.png?raw=true)
 
 🛠️ Technologies Used
 
